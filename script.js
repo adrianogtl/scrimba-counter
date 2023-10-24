@@ -16,6 +16,8 @@ function save() {
 }
 
 function reset() {
+  counter = 0
+  counterEl.textContent = counter
   savedEl.textContent = ''
   historyEl.style.visibility = "hidden"
 }
