@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://adrianogtl.github.io/scrimba-counter/">
@@ -19,37 +18,19 @@
   </p>
 </div>
 
+## :dart: About
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#resources">Resources</a></li>
-  </ol>
-</details>
-
-
-
-## About The Project
-
-![Screenshot][screenshot-path]
+![Screenshot](assets/screenshot.jpg)
 
 * Coding challange from Scrimba's JavaScript course
 
-## Resources
+## :memo: License
 
-* Icon by [Icons8][icons8-url]
-* Photo by [Jon Moore][photo-url]
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## :heart: Acknowledgments
 
+* Icon by [Icons8](https://icons8.com)
+* Photo from [Unsplash](https://unsplash.com)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[screenshot-path]: assets/screenshot.jpg
-[icons8-url]: https://icons8.com
-[photo-url]: https://unsplash.com/@thejmoore
+<p align="right"><a href="#readme-top">Back to top :arrow_up: </a></p>
